@@ -1,3 +1,3 @@
-# A Springboot and GraphQL application
+# Springboot and GraphQL application Demo
 
-### Work in progress ...
+This is a demo project to introduce Spring for GraphQL.
